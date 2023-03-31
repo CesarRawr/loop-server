@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/.exe
+
+# production
+/build
+/dist
